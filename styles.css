@@ -1,3 +1,109 @@
-h1{
-	color: red;
+body{
+	 font-family: "Mako", sans-serif;
+}
+
+
+.logo {
+    width: 200px;
+    height: auto;
+    text-align: center;
+    display: block; 
+    margin: 0 auto; 
+
+}
+
+
+hr{
+	border: none;
+  	height: 2px;
+  	background-color: black;
+  	opacity: 60%;
+}
+
+.insta{
+	height: 34px;
+	width: auto;
+	top: 33px;
+  	right: 250px;
+  	position: absolute;
+}
+.ttk{
+	height: 40px;
+	width: auto;
+	position: absolute;
+  	top: 30px;
+  	right: 170px;
+}
+
+.insta:hover{
+	transform: scale(1.2);
+}
+
+.ttk:hover{
+	transform: scale(1.2);
+}
+
+
+.about{
+	text-align: justify;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.aboutus{
+	margin-left: 30%;
+	margin-top: 40px;
+}
+.aboutus:hover{
+	font-style: scale(1.1);
+}
+
+.char{
+	font-style: italic;
+	text-align: center;
+	opacity: 60%;
+	font-size: 16px;
+}
+
+.imgs{
+	width: 100%;
+	border-radius: 10px;
+}
+
+a{
+	padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    font-style: inherit;
+    text-decoration: inherit;
+    color: inherit;
+}
+a:hover{
+	font-style: italic;
+	color: blue;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	margin-left: -2%;
+}
+
+.st{
+	color: blue;
+}
+
+fieldset{
+	margin-top: 30px;
+	margin-left: 40%;
+	margin-right: 40%;
+	text-align: center;
+	border-radius: 40px;
+}
+
+.p{
+	margin-left: -8%;
+	font-size: 20px;
+	opacity: 70%;
 }
