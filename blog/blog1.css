@@ -143,7 +143,7 @@ fieldset{
 .priv{
     font-size: 20px;
     margin-left: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
 
 .blog{
@@ -158,4 +158,11 @@ fieldset{
     display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.spc{
+    margin-bottom: 10px;
+}
+.space{
+    margin-bottom: 70px;
 }
