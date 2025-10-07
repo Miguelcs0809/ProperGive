@@ -1,0 +1,147 @@
+body{
+	 font-family: "Mako", sans-serif;
+	 margin: 0;
+}
+
+hr{
+	border: none;
+  	height: 2px;
+  	background-color: black;
+  	opacity: 60%;
+}
+a{
+	padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    font-style: inherit;
+    text-decoration: inherit;
+    color: inherit;
+}
+a:hover{
+	font-style: italic;
+	color: blue;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	margin-left: -2%;
+}
+fieldset{
+	margin-top: 30px;
+	margin-left: 40%;
+	margin-right: 40%;
+	text-align: center;
+	border-radius: 40px;
+}
+.logo {
+    width: 200px;
+    height: auto;
+    text-align: center;
+    display: block; 
+    margin: 0 auto; 
+
+}
+
+.insta{
+	height: 34px;
+	width: auto;
+	top: 28px;
+  	left: 460px;
+  	position: absolute;
+}
+.ttk{
+	height: 40px;
+	width: auto;
+	position: absolute;
+  	top: 25px;
+  	left: 400px;
+}
+
+.insta:hover{
+	transform: scale(1.2);
+}
+
+.ttk:hover{
+	transform: scale(1.2);
+}
+
+
+.about{
+	text-align: justify;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.aboutus{
+	margin-left: 30%;
+	margin-top: 40px;
+}
+.aboutus:hover{
+	font-style: scale(1.1);
+}
+
+.char{
+	font-style: italic;
+	text-align: center;
+	opacity: 60%;
+	font-size: 16px;
+}
+.title{
+	
+	text-align: center;
+}
+
+.imgs{
+	margin-top: 30px;
+	width: 100%;
+	border-radius: 10px;
+}
+
+
+.st{
+	color: blue;
+}
+
+
+.p{
+	margin-left: -8%;
+	font-size: 20px;
+	opacity: 70%;
+}
+
+.ad{
+	display: block;      /* make it a block element */
+  	margin: 0 auto;
+  	height: 70px;
+  	border-radius: 30px;
+}
+
+.w{
+	font-size: 50px;
+	font-family: "Bebas Neue", sans-serif;
+	margin-left: 60px;
+	margin-top: 13px;
+}
+
+.title2{
+	margin-top: 40px;
+	text-align: center;
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 50px;
+}
+
+.yt{
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+	border-radius: 20px;
+	height: 400px;
+}
+.priv{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+}
+
