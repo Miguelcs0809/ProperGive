@@ -1,3 +1,26 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffffff; /* or whatever your navbar color is */
+  z-index: 1000; /* keeps it above other content */
+  padding-bottom: 10px;
+}
+
+
+
+nav a {
+  text-decoration: none;
+  color: #222;
+ 
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #007bff; /* or your accent color */
+}
+
 body{
 	 font-family: "Mako", sans-serif;
 	 margin: 0;
