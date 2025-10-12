@@ -91,15 +91,35 @@ fieldset{
 }
 
 
-.about{
-	text-align: justify;
-	margin-left: 30%;
-	margin-right: 30%;
+@media (max-width: 1000px){
+    .about{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+}
+@media (min-width: 1001px){
+    .about{
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+    }
 }
 
-.aboutus{
-	margin-left: 30%;
-	margin-top: 40px;
+
+@media (max-width: 1000px){
+    .aboutus{
+    text-align: justify;
+    margin: 20px;
+    float: center;
+    
+    }
+}
+@media (min-width: 1001px){
+    .aboutus{
+    margin-left: 30%;
+    margin-top: 40px;
+    }
 }
 .aboutus:hover{
 	font-style: scale(1.1);
