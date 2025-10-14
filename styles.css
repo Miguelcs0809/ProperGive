@@ -28,7 +28,7 @@ nav a:hover {
 }
 
 .ft{
-	height: 34px;
+	height: 30px;
 	width: auto;
 
 }
@@ -39,9 +39,9 @@ nav a:hover {
 }
 
 .ft1{
-	height: 34px;
+	height: 30px;
 	width: auto;
-	padding: 10px;
+	padding: 8px;
 }
 
 .ft1:hover{
@@ -50,11 +50,11 @@ nav a:hover {
 }
 
 .logotext{
-	font-size: 30px;
+	font-size: 25px;
 	font-family: "Bebas Neue", sans-serif;
 	text-align: center;
 	padding: 5px;
-	padding-left: 30px;
+	padding-left: 20px;
 	
 	
 }
@@ -278,21 +278,10 @@ fieldset{
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.blogs{
+    font-size: 14px;
+    text-decoration: bold;
+}
 
 
 
