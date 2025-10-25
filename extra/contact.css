@@ -1,3 +1,56 @@
+/*header*/
+
+.ft{
+	height: 30px;
+	width: auto;
+}
+
+.ft:hover{
+	scale: 1.1;
+}
+
+.ft1{
+	height: 30px;
+	width: auto;
+	padding: 8px;
+}
+
+.ft1:hover{
+	scale: 1.1;	
+}
+
+.logotext{
+	font-size: 25px;
+	font-family: "Bebas Neue", sans-serif;
+	text-align: center;
+	padding: 5px;
+	padding-left: 20px;
+}
+
+.logotext:hover{
+	color: black;
+	text-decoration: none;
+}
+
+.priv{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-bottom: 15px;
+}
+
+.header{
+	background-color: #ffffff;
+}
+
+.head{
+	height: 2px;
+  	background-color: black;
+  	margin-top: -5px;}
+  	
+
+
+
+
 nav {
   position: fixed;
   top: 0;
