@@ -128,7 +128,7 @@ a{
     color: inherit;
 }
 a:hover{
-	font-style: italic;
+	
 	color: blue;
 }
 ul{
@@ -210,7 +210,10 @@ fieldset{
 .aboutus:hover{
 	font-style: scale(1.1);
 }
-
+.aboutus{
+	margin-top: 60px;
+	padding-top: 60px;
+}
 .char{
 	font-style: italic;
 	text-align: center;
