@@ -49,6 +49,38 @@
     
 /*header end*/
 
+/*footer*/
+.site-footer {
+  background-color: #222;
+  color: #f0f0f0;
+  padding: 25px 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.site-footer .footer-links {
+  margin-bottom: 10px;
+}
+
+.site-footer .footer-links a {
+  color: #f0f0f0;
+  margin: 0 12px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.site-footer .footer-links a:hover {
+  color: #4CAF50; /* subtle hover effect */
+}
+
+.site-footer .footer-copy {
+  font-size: 12px;
+  color: #aaa;
+}
+
+/*footer end*/
+
 nav {
   position: fixed;
   top: 0;
@@ -92,7 +124,7 @@ a{
     color: inherit;
 }
 a:hover{
-    font-style: italic;
+    
     color: blue;
 }
 ul{
@@ -174,8 +206,8 @@ fieldset{
 
 
 
-.titles:hover{
-    font-style: scale(1.1);
+.titles{
+    padding-top: 60px;
 }
 
 .char{
@@ -264,10 +296,7 @@ fieldset{
     margin-bottom: 70px;
 }
 
-.header{
-    background-color: #ffffff;
 
-}
 
 .ft{
     height: 30px;
