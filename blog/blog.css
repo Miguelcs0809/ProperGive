@@ -224,3 +224,17 @@ img {max-width:100%;border-radius:10px;display:block;}
   .related h2{font-size:36px;}
 }
 
+.blogs {
+  display: inline-block;
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+  transition: color 0.2s ease;
+}
+.blogs:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+td p {
+  margin: 10px 0;
+}
